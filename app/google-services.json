@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "513564036127",
+    "project_id": "globalcapstonedesign2021-02",
+    "storage_bucket": "globalcapstonedesign2021-02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513564036127:android:ec484734255d987996992a",
+        "android_client_info": {
+          "package_name": "edu.skku.GlobalCapstoneDesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513564036127-48san6t7g6j5q2o22tnk339sbtskdumv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.skku.GlobalCapstoneDesign",
+            "certificate_hash": "40427f13c2ab2b10d3a7402c631317d2ec3f5896"
+          }
+        },
+        {
+          "client_id": "513564036127-dto25b9l5pshafu027i0s3h8iernqulv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsyLRFswf-_YCHL7b16ILbvi10HS6Z--g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513564036127-dto25b9l5pshafu027i0s3h8iernqulv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
